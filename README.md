@@ -5,11 +5,6 @@
 
 ---
 
-### Vídeo demostrativo ###
->https://youtu.be/7ZB1MK9D63g
-
----
-
 # 🚀 Sobre o Projeto
 
 Este projeto é uma plataforma moderna de inteligência climática, construída com arquitetura distribuída e múltiplas linguagens, totalmente orquestrada em Docker Compose.
@@ -129,4 +124,4 @@ Executando no container `mongo:6`.
 
 # 👨‍💻 Autor  
 **Luiz Menezes**
-LinkedIn: https://www.linkedin.com/in/**coloque-seu-user**
+LinkedIn: www.linkedin.com/in/luiz-otávio-menezes-pereira-a2016a37b
